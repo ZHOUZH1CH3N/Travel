@@ -77,15 +77,9 @@ export default {
       ellipsis()
     .item-button
       line-height 0.44rem
-<<<<<<< HEAD
-      margin-top 0.16rem
-      background #ff9300
-      padding 0 0.2rem
-=======
       margin-top 0.2rem
       background #ff9300
       padding 0 0.1rem
->>>>>>> index-recommend
       border-radius 0.06rem
       color #fff
 </style>
