@@ -24,24 +24,24 @@ export default {
     return {
       recommendList: [{
         id: '0001',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1904/fb/fb31323a239562b6a3.img.jpg_200x200_9d09bb8f.jpg',
-        title: '鼋头渚',
-        desc: '无锡境内桃花源'
+        imgUrl: 'http://img1.qunarzz.com/sight/p0/1902/84/84696f368bbec10da3.img.jpg_200x200_50323152.jpg',
+        title: '故宫',
+        desc: '世界五大宫之首，穿越与您近在咫尺'
       }, {
         id: '0002',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1904/fb/fb31323a239562b6a3.img.jpg_200x200_9d09bb8f.jpg',
-        title: '鼋头渚',
-        desc: '无锡境内桃花源'
+        imgUrl: 'http://img1.qunarzz.com/sight/p0/1902/84/84696f368bbec10da3.img.jpg_200x200_50323152.jpg',
+        title: '故宫',
+        desc: '世界五大宫之首，穿越与您近在咫尺'
       }, {
         id: '0003',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1904/fb/fb31323a239562b6a3.img.jpg_200x200_9d09bb8f.jpg',
-        title: '鼋头渚',
-        desc: '无锡境内桃花源'
+        imgUrl: 'http://img1.qunarzz.com/sight/p0/1902/84/84696f368bbec10da3.img.jpg_200x200_50323152.jpg',
+        title: '故宫',
+        desc: '世界五大宫之首，穿越与您近在咫尺'
       }, {
         id: '0004',
-        imgUrl: 'http://img1.qunarzz.com/sight/p0/1904/fb/fb31323a239562b6a3.img.jpg_200x200_9d09bb8f.jpg',
-        title: '鼋头渚',
-        desc: '无锡境内桃花源'
+        imgUrl: 'http://img1.qunarzz.com/sight/p0/1902/84/84696f368bbec10da3.img.jpg_200x200_50323152.jpg',
+        title: '故宫',
+        desc: '世界五大宫之首，穿越与您近在咫尺'
       }]
     }
   }
@@ -77,9 +77,15 @@ export default {
       ellipsis()
     .item-button
       line-height 0.44rem
+<<<<<<< HEAD
       margin-top 0.16rem
       background #ff9300
       padding 0 0.2rem
+=======
+      margin-top 0.2rem
+      background #ff9300
+      padding 0 0.1rem
+>>>>>>> index-recommend
       border-radius 0.06rem
       color #fff
 </style>
