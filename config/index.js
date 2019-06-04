@@ -6,7 +6,6 @@ const path = require('path')
 
 module.exports = {
   dev: {
-
     // Paths
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
@@ -17,6 +16,13 @@ module.exports = {
           '^/api': '/static/mock'
         }
       }
+      // '/api': {
+      //   target: 'http://mobsec-dianhua.baidu.com/dianhua_api/open',
+      //   changeOrigin: true,
+      //   pathRewrite: {
+      //     '^/api': ''
+      //   }
+      // }
     },
 
     // Various Dev Server settings
